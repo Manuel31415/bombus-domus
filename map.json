@@ -951,6 +951,19 @@
          "tilecount":420,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":2621,
+         "image":"2_LivingRoom_32x32.png",
+         "imageheight":1440,
+         "imagewidth":512,
+         "margin":0,
+         "name":"2_LivingRoom_32x32",
+         "spacing":0,
+         "tilecount":720,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
